@@ -26,15 +26,9 @@
 ##
 
 <div align="center"><div align="center"><div align="center"><div align="center"><div align="center"><div align="center"><div align="center">
+<div align="center">
   <a href="https://github.com/camilapinazo"> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=camilapinazo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilapinazo&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=camilapinazo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilapinazo&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
-
-
-
-<!---
-camilapinazo/camilapinazo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
