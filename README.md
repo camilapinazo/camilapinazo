@@ -4,7 +4,6 @@
 - 💞️ Todos os dias procuro melhorar e buscar minha melhor versão.
 - 📫 Como me encontrar? Basta clicar nos links abaixo!
 
-##
 
 
 <div> 
